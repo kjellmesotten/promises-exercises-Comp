@@ -20,7 +20,7 @@ You are free to look at any of the tests for guidance, but don't change them.
 
 > To run the tests of the exercises in a directory like `01-making-promises`, execute `npm run 01-making-promises` from the top-level project directory.
 
-> **Windows Powershell users:** if running `npm run 01-making-promises` fails with an error stating that '.' is not executable, open `package.json` and in the `"scripts"` section replace all `/` by `\\` like so: `"01-making-promises": ".\\node_modules\\.bin\\mocha -- .\\01-making-promises\\test.js"`.
+> **Windows users:** if running `npm run 01-making-promises` fails with an error stating that '.' is not executable, open `package.json` and in the `"scripts"` section replace all `/` by `\\` like so: `"01-making-promises": ".\\node_modules\\.bin\\mocha -- .\\01-making-promises\\test.js"`. Alternatively, use [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) and Bash to run the command.
 
 ## Outline
 
