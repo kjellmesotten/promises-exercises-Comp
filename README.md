@@ -1,6 +1,6 @@
 # promises-exercises
 
-A set of exercises to learn about asynchronous programming using Promises in JavaScript.
+A set of exercises to learn about asynchronous programming using [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) in JavaScript.
 
 Fill in the blanks to make all the tests green.
 
